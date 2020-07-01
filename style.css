@@ -91,10 +91,8 @@ section{
 }
 
 .column {
-  float: left;
-  width: 33.33%;
-  padding: 3px;
-
+    float: left;
+    width: 32.9%;
 }
 .column img {
     height: auto !important;
