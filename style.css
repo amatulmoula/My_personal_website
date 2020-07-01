@@ -96,13 +96,14 @@ section{
   padding: 3px;
 
 }
-.column img{
-height: 200px;
-align-items: 25px;
-margin: 2%;
-padding-left: 2%;
-padding-right: 2%;
-display: inline-block;
+.column img {
+    height: auto !important;
+    align-items: 25px;
+    margin: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    width: 100% !important;
+    display: inline-block;
 }
 p{
     color: gray;
